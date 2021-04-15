@@ -1,2 +1,0 @@
-# chatty
-chat app
